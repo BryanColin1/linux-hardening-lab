@@ -46,11 +46,7 @@ python3-netplan
 
 ## Evidence
 
-```md
-## Evidence
-
 ![Update and Patch Management](../screenshots/update-and-patch-management.png)
-```
 
 ## Conclusion
 
