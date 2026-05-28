@@ -13,6 +13,14 @@ During the firewall review, UFW was found to be inactive. This means host-based 
 ```bash
 sudo ufw status verbose
 sudo ufw status numbered
+sudo ufw allow 22/tcp
+sudo ufw allow 443/tcp
+sudo ufw allow 1514/tcp
+sudo ufw allow 1515/tcp
+sudo ufw allow 55000/tcp
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw enable
 ```
 
 ## Security Rationale
