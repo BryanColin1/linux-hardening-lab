@@ -22,8 +22,6 @@ Keeping packages updated is one of the most important Linux hardening practices.
 
 ## Actions Taken
 
-## Actions Taken
-
 | Step | Action | Status |
 |---|---|---|
 | 1 | Checked package repositories | Completed |
